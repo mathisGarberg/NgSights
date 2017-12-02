@@ -1,0 +1,15 @@
+#sideBar {
+    height: 100vh; /* Size it relative to the actual viewport */
+    padding-top: 80px;
+    position: fixed; /* Be able to scroll other parts of the app without having the sidebar move */
+    background-color: #191F26;
+}
+
+#dashboard {
+    margin-top: 60px;
+}
+
+#navbar {
+    background-color: #161A1E!important;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2) 0 3px 6px rgba(0,0,0,0.25);
+}
